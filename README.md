@@ -1,4 +1,4 @@
-# Neugence UI / UX Design Assignment
+# Neugence UI / UX Design Challenge
 
 1. Fork this Repo https://github.com/neugence/designAssignment
 2. Complete the Assignment in Figma
