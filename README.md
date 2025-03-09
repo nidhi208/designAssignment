@@ -38,8 +38,13 @@ Feel free to **personalize** these challenges as long as you demonstrate thought
 
 ## 3. Create a Pull Request with Figma Link
 Once you’re done, create a **Pull Request** in your forked repo containing only:
-- A **Figma link** to your design (make sure it’s viewable).  
-- Any brief notes you want to share (optional).
+- A **Figma link** to your design (make sure it’s viewable). 
+ 
+Figma File Link: https://www.figma.com/design/W96mm3NQZC4sn6Qir5ERuo/Assignment?node-id=36-182&t=gGXLt4i1XRCN1hSE-1
+Figma Prototype Link: https://www.figma.com/proto/W96mm3NQZC4sn6Qir5ERuo/Assignment?page-id=36%3A182&node-id=216-2398&viewport=551%2C252%2C0.04&t=l9xcSjLV5pT5f9t0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=216%3A2398&show-proto-sidebar=1
+Design Decision Document: https://drive.google.com/file/d/1l8DSs3fGYhMrFlpAdJhYkM9cLOTHUvct/view?usp=drive_link
+
+- Designed a user-friendly interface focusing on accessibility and engagement. Incorporated interactive elements to enhance usability.
 
 No code changes are necessary—just the link to your Figma work.
 
